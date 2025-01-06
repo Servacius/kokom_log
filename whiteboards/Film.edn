@@ -20,7 +20,7 @@
 :nonce 1731639414985
 :isComplete true}}
 :block/updated-at 1731639442759} 
-{:block/created-at 1736090491351
+{:block/created-at 1736090542360
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -45,10 +45,10 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "6736b870-a0ed-4399-9188-128d9a886379"
-:nonce 1736090481240
+:nonce 1736090481271
 :italic false
 :text "Interstellar"}}
-:block/updated-at 1736090491351} 
+:block/updated-at 1736090542360} 
 {:block/created-at 1736090499958
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -77,7 +77,37 @@
 :nonce 1736090494689
 :italic false
 :text "se7en"}}
-:block/updated-at 1736090499958})
+:block/updated-at 1736090499958} 
+{:block/created-at 1736090536861
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [288 16]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c64d1830-cb78-11ef-b7f6-a9749d786dd0"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-224 -8]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6736b870-a0ed-4399-9188-128d9a886379"
+:nonce 1736090505677
+:italic false
+:text "Once upon a time at Holywood"}}
+:block/updated-at 1736090536861})
 :pages (
 {:block/uuid #uuid "6736b870-a0ed-4399-9188-128d9a886379"
 :block/properties 
@@ -89,8 +119,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("45989d70-a2fd-11ef-ae9b-cdd9fff918d6" "b7cf60b0-cb78-11ef-b7f6-a9749d786dd0" "bfd62050-cb78-11ef-b7f6-a9749d786dd0")}}
-:block/updated-at 1736090499958
+:shapes-index ("45989d70-a2fd-11ef-ae9b-cdd9fff918d6" "b7cf60b0-cb78-11ef-b7f6-a9749d786dd0" "bfd62050-cb78-11ef-b7f6-a9749d786dd0" "c64d1830-cb78-11ef-b7f6-a9749d786dd0")}}
+:block/updated-at 1736090542360
 :block/created-at 1731639408063
 :block/type "whiteboard"
 :block/name "film"
